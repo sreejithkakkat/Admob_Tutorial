@@ -1,0 +1,890 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.804; Version 2009; 64bit' Language: 'en' Physical Memory: 8067 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+E:/Unity games/PixelBug/Admob_Tutorial
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+55107
+Successfully changed project path to: E:/Unity games/PixelBug/Admob_Tutorial
+E:/Unity games/PixelBug/Admob_Tutorial
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 61.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path C:/Program Files/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Unity games/PixelBug/Admob_Tutorial/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX150 (ID=0x1d10)
+    Vendor:   
+    VRAM:     1994 MB
+    Driver:   23.21.13.8873
+Initialize mono
+Mono path[0] = 'C:/Program Files/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56200
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002628 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 51.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.362 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002484 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 56.09 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.276 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.28 seconds
+Refreshing native plugins compatible for Editor in 0.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1990 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.7 MB.
+System memory in use after: 91.6 MB.
+
+Unloading 100 unused Assets to reduce memory usage. Loaded Objects now: 2365.
+Total: 20.765800 ms (FindLiveObjects: 0.268500 ms CreateObjectMapping: 0.106700 ms MarkObjects: 18.250900 ms  DeleteObjects: 2.136900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/AdScript.cs
+  artifactKey: Guid(4d0482c0f4bc6c24b8a500dc3b76aac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AdScript.cs using Guid(4d0482c0f4bc6c24b8a500dc3b76aac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92055cecb48023440da9f723794f5cb5') in 0.048434 seconds
+  Import took 0.090690 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003310 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.007 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.91 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1975 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.3 MB.
+System memory in use after: 90.2 MB.
+
+Unloading 88 unused Assets to reduce memory usage. Loaded Objects now: 2369.
+Total: 2.128700 ms (FindLiveObjects: 0.198700 ms CreateObjectMapping: 0.075400 ms MarkObjects: 1.723800 ms  DeleteObjects: 0.129900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 845.268931 seconds.
+  path: Assets/Scripts/AdScript.cs
+  artifactKey: Guid(4d0482c0f4bc6c24b8a500dc3b76aac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AdScript.cs using Guid(4d0482c0f4bc6c24b8a500dc3b76aac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df5a8dfcda17923148a237481ab48753') in 0.004372 seconds
+  Import took 0.025164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1833.818622 seconds.
+  path: Assets/Scripts/AdScript.cs
+  artifactKey: Guid(4d0482c0f4bc6c24b8a500dc3b76aac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AdScript.cs using Guid(4d0482c0f4bc6c24b8a500dc3b76aac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6485d5bfc045305a8a546a347d471b59') in 0.008388 seconds
+  Import took 0.132295 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007465 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.393 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 2.11 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1975 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.3 MB.
+System memory in use after: 90.3 MB.
+
+Unloading 88 unused Assets to reduce memory usage. Loaded Objects now: 2373.
+Total: 4.772500 ms (FindLiveObjects: 0.340200 ms CreateObjectMapping: 0.181100 ms MarkObjects: 3.991300 ms  DeleteObjects: 0.257200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 104.303095 seconds.
+  path: Assets/Scripts/AdScript.cs
+  artifactKey: Guid(4d0482c0f4bc6c24b8a500dc3b76aac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AdScript.cs using Guid(4d0482c0f4bc6c24b8a500dc3b76aac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '621890599fbec7cf0d77f72e99cb0f30') in 0.010239 seconds
+  Import took 0.109552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.627734 seconds.
+  path: Assets/Scripts/AdScript.cs
+  artifactKey: Guid(4d0482c0f4bc6c24b8a500dc3b76aac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AdScript.cs using Guid(4d0482c0f4bc6c24b8a500dc3b76aac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '621890599fbec7cf0d77f72e99cb0f30') in 0.003486 seconds
+  Import took 0.109775 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004820 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.76 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.270 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1975 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.3 MB.
+System memory in use after: 90.3 MB.
+
+Unloading 88 unused Assets to reduce memory usage. Loaded Objects now: 2377.
+Total: 5.216300 ms (FindLiveObjects: 0.491900 ms CreateObjectMapping: 0.219700 ms MarkObjects: 4.167300 ms  DeleteObjects: 0.334400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004807 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.065 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1975 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.3 MB.
+System memory in use after: 90.3 MB.
+
+Unloading 88 unused Assets to reduce memory usage. Loaded Objects now: 2381.
+Total: 4.118700 ms (FindLiveObjects: 0.305000 ms CreateObjectMapping: 0.151600 ms MarkObjects: 3.431200 ms  DeleteObjects: 0.229100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.054629 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.16 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.854 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1931 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.2 MB.
+System memory in use after: 89.2 MB.
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 2385.
+Total: 4.278000 ms (FindLiveObjects: 0.380400 ms CreateObjectMapping: 0.182400 ms MarkObjects: 3.398200 ms  DeleteObjects: 0.314400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004733 seconds.
+Begin MonoManager ReloadAssembly
+Error: Could not load signature of Google.IOSResolver:LogCommandLineResult due to: Could not load file or assembly 'Google.JarResolver, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:Google.JarResolver, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+Unloading broken assembly Assets/ExternalDependencyManager/Editor/Google.IOSResolver_v1.2.161.dll, this assembly can cause crashes in the runtime
+
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.06 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+TypeLoadException: Could not load type of field 'Google.IOSResolver:commandLineDialog' (37) due to: Could not load file or assembly 'Google.JarResolver, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:Google.JarResolver, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+  at (wrapper managed-to-native) System.RuntimeType.GetConstructors_native(System.RuntimeType,System.Reflection.BindingFlags)
+  at System.RuntimeType.GetConstructors_internal (System.Reflection.BindingFlags bindingAttr, System.RuntimeType reflectedType) [0x00008] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.GetConstructorCandidates (System.String name, System.Reflection.BindingFlags bindingAttr, System.Reflection.CallingConventions callConv, System.Type[] types, System.Boolean allowPrefixLookup) [0x00034] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.GetConstructors (System.Reflection.BindingFlags bindingAttr) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.GetDefaultConstructor () [0x0002c] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at UnityEditor.AssetPostprocessingInternal.GetMeshProcessorsHashString () [0x00035] in <015079d9a4ea4f97b4381e694d2310c1>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEditor.AssetPostprocessingInternal:GetMeshProcessorsHashString()
+
+TypeLoadException: Could not load type of field 'Google.IOSResolver:commandLineDialog' (37) due to: Could not load file or assembly 'Google.JarResolver, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:Google.JarResolver, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+  at (wrapper managed-to-native) System.RuntimeType.GetConstructors_native(System.RuntimeType,System.Reflection.BindingFlags)
+  at System.RuntimeType.GetConstructors_internal (System.Reflection.BindingFlags bindingAttr, System.RuntimeType reflectedType) [0x00008] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.GetConstructorCandidates (System.String name, System.Reflection.BindingFlags bindingAttr, System.Reflection.CallingConventions callConv, System.Type[] types, System.Boolean allowPrefixLookup) [0x00034] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.GetConstructors (System.Reflection.BindingFlags bindingAttr) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.GetDefaultConstructor () [0x0002c] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at UnityEditor.AssetPostprocessingInternal.GetTextureProcessorsHashString () [0x00035] in <015079d9a4ea4f97b4381e694d2310c1>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEditor.AssetPostprocessingInternal:GetTextureProcessorsHashString()
+
+TypeLoadException: Could not load type of field 'Google.IOSResolver:commandLineDialog' (37) due to: Could not load file or assembly 'Google.JarResolver, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:Google.JarResolver, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+  at (wrapper managed-to-native) System.RuntimeType.GetConstructors_native(System.RuntimeType,System.Reflection.BindingFlags)
+  at System.RuntimeType.GetConstructors_internal (System.Reflection.BindingFlags bindingAttr, System.RuntimeType reflectedType) [0x00008] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.GetConstructorCandidates (System.String name, System.Reflection.BindingFlags bindingAttr, System.Reflection.CallingConventions callConv, System.Type[] types, System.Boolean allowPrefixLookup) [0x00034] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.GetConstructors (System.Reflection.BindingFlags bindingAttr) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.GetDefaultConstructor () [0x0002c] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at UnityEditor.AssetPostprocessingInternal.GetAudioProcessorsHashString () [0x00035] in <015079d9a4ea4f97b4381e694d2310c1>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEditor.AssetPostprocessingInternal:GetAudioProcessorsHashString()
+
+TypeLoadException: Could not load type of field 'Google.IOSResolver:commandLineDialog' (37) due to: Could not load file or assembly 'Google.JarResolver, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:Google.JarResolver, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+  at (wrapper managed-to-native) System.RuntimeType.GetConstructors_native(System.RuntimeType,System.Reflection.BindingFlags)
+  at System.RuntimeType.GetConstructors_internal (System.Reflection.BindingFlags bindingAttr, System.RuntimeType reflectedType) [0x00008] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.GetConstructorCandidates (System.String name, System.Reflection.BindingFlags bindingAttr, System.Reflection.CallingConventions callConv, System.Type[] types, System.Boolean allowPrefixLookup) [0x00034] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.GetConstructors (System.Reflection.BindingFlags bindingAttr) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.GetDefaultConstructor () [0x0002c] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at UnityEditor.AssetPostprocessingInternal.GetSpeedTreeProcessorsHashString () [0x00035] in <015079d9a4ea4f97b4381e694d2310c1>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEditor.AssetPostprocessingInternal:GetSpeedTreeProcessorsHashString()
+
+TypeLoadException: Could not load type of field 'Google.IOSResolver:commandLineDialog' (37) due to: Could not load file or assembly 'Google.JarResolver, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:Google.JarResolver, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+  at (wrapper managed-to-native) System.RuntimeType.GetConstructors_native(System.RuntimeType,System.Reflection.BindingFlags)
+  at System.RuntimeType.GetConstructors_internal (System.Reflection.BindingFlags bindingAttr, System.RuntimeType reflectedType) [0x00008] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.GetConstructorCandidates (System.String name, System.Reflection.BindingFlags bindingAttr, System.Reflection.CallingConventions callConv, System.Type[] types, System.Boolean allowPrefixLookup) [0x00034] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.GetConstructors (System.Reflection.BindingFlags bindingAttr) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.GetDefaultConstructor () [0x0002c] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at UnityEditor.AssetPostprocessingInternal.GetPrefabProcessorsHashString () [0x00035] in <015079d9a4ea4f97b4381e694d2310c1>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEditor.AssetPostprocessingInternal:GetPrefabProcessorsHashString()
+
+- Completed reload, in  2.074 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.08 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1931 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 89.3 MB.
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 2389.
+Total: 5.831300 ms (FindLiveObjects: 0.335100 ms CreateObjectMapping: 0.195400 ms MarkObjects: 3.848000 ms  DeleteObjects: 1.450800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006900 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.129 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1931 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 2393.
+Total: 4.813600 ms (FindLiveObjects: 0.335000 ms CreateObjectMapping: 0.144500 ms MarkObjects: 4.090800 ms  DeleteObjects: 0.241000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 2725.259251 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68e7bdf9d3b66e8f646b3120912e9b83') in 0.117610 seconds
+  Import took 0.148494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005228 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68e7bdf9d3b66e8f646b3120912e9b83') in 0.004173 seconds
+  Import took 0.010116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.489540 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7ebc75779c3059a35e35a61f704075e') in 0.004293 seconds
+  Import took 0.022401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.055776 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab3e977f819731e625640153c13f591c') in 0.004071 seconds
+  Import took 0.026840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.182966 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41f38fe96fccd840bdb9dbf14248d40f') in 0.004110 seconds
+  Import took 0.010633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004444 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41f38fe96fccd840bdb9dbf14248d40f') in 0.003799 seconds
+  Import took 0.009789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.795092 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1637ff7ced1c866a7fa4e89abc830dcc') in 0.004519 seconds
+  Import took 0.068435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.031405 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e53375a112fb02c73006154ddee8f08b') in 0.004465 seconds
+  Import took 0.058069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.089879 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af36b5b7fbad5aea3d3c3cdcf2ad7f3e') in 0.004330 seconds
+  Import took 0.048822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.060860 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '179972796717e61bc956fd83757ba1ac') in 0.004006 seconds
+  Import took 0.048643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.827765 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a7bf3ced1d5e4dfeb944aed9f638130') in 0.004778 seconds
+  Import took 0.026418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.738577 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46e4d9ac42c0d46c5a560b29c72a2d48') in 0.004152 seconds
+  Import took 0.029119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.341734 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3df7ec3fbe5aa01e7c8b5b258599e5a3') in 0.004429 seconds
+  Import took 0.011347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003603 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3df7ec3fbe5aa01e7c8b5b258599e5a3') in 0.003875 seconds
+  Import took 0.010020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.267208 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32d8081c49650fe3ddde9c2192263604') in 0.005344 seconds
+  Import took 0.029912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.616960 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c769e5d2f5bb48d11fe632a2d3ced7b') in 0.004231 seconds
+  Import took 0.021832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.032647 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2d312b090961f6d7da27db7a3059e99') in 0.003981 seconds
+  Import took 0.026928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.210063 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8ee89f49e15a955875dc380deea747c') in 0.004772 seconds
+  Import took 0.010892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005085 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8ee89f49e15a955875dc380deea747c') in 0.004118 seconds
+  Import took 0.010666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.029849 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac0b79685cacc2150a508e882b0ec0f6') in 0.004516 seconds
+  Import took 0.023356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.216362 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d34beaae4aeca956ef47f3345c14ce1') in 0.004167 seconds
+  Import took 0.010498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004485 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d34beaae4aeca956ef47f3345c14ce1') in 0.004543 seconds
+  Import took 0.010404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.152858 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a84536adf035cc6d461376b801e0bfc') in 0.004111 seconds
+  Import took 0.010888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006026 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a84536adf035cc6d461376b801e0bfc') in 0.004308 seconds
+  Import took 0.011403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.123168 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ef14f3fb60552e37567e5f7dc28a71c') in 0.004088 seconds
+  Import took 0.015735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012706 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ef14f3fb60552e37567e5f7dc28a71c') in 0.004249 seconds
+  Import took 0.010037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.672122 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb6300f1486eb7654f641128c912308f') in 0.004131 seconds
+  Import took 0.040458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.277731 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de537a9723b9dabbd57f250f3656fa7f') in 0.004457 seconds
+  Import took 0.031392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.429218 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0352d2df27129d70023558eae9e6bc34') in 0.004278 seconds
+  Import took 0.014968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003026 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0352d2df27129d70023558eae9e6bc34') in 0.004021 seconds
+  Import took 0.010628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.096622 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fac54b3a6d32d896469470764b4f228') in 0.004291 seconds
+  Import took 0.011232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.135947 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '506fc084249a61eb108302b63986f2b7') in 0.004422 seconds
+  Import took 0.010686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004029 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '506fc084249a61eb108302b63986f2b7') in 0.004000 seconds
+  Import took 0.010450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.555234 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9379e59f36931be9c7d037e635b3137') in 0.004506 seconds
+  Import took 0.011682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005215 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9379e59f36931be9c7d037e635b3137') in 0.004307 seconds
+  Import took 0.010525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.382092 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f27da0ff30c2a8a3cdab32cbf7060ca9') in 0.004627 seconds
+  Import took 0.011531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006265 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f27da0ff30c2a8a3cdab32cbf7060ca9') in 0.004467 seconds
+  Import took 0.011675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.956263 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be12cf7ea87e634375bc2e821ce54b91') in 0.004578 seconds
+  Import took 0.011124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004202 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be12cf7ea87e634375bc2e821ce54b91') in 0.004698 seconds
+  Import took 0.010788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.232368 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45360794b9acc1a5977be583035d9af4') in 0.004208 seconds
+  Import took 0.023093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.147658 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5a03020970a6d1718ee07f3d2a4c5c1') in 0.004418 seconds
+  Import took 0.020067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.692171 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fbd910e6af0545d76fc170216206bea') in 0.004181 seconds
+  Import took 0.010783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003756 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fbd910e6af0545d76fc170216206bea') in 0.004305 seconds
+  Import took 0.010535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.044463 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3e40be0196daa98f419eb0714b5512c') in 0.004019 seconds
+  Import took 0.037431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.149194 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66f9de01ec3ab186b8ad324707ec2ae5') in 0.004347 seconds
+  Import took 0.010176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004487 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66f9de01ec3ab186b8ad324707ec2ae5') in 0.004362 seconds
+  Import took 0.010301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.527320 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dd2fc1f35a32fbf29c5e6039f025839') in 0.004764 seconds
+  Import took 0.011716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017709 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dd2fc1f35a32fbf29c5e6039f025839') in 0.004670 seconds
+  Import took 0.013204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.889699 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a69fab494cf908c8802fb215647e7a64') in 0.004036 seconds
+  Import took 0.038343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.201343 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8aff799c1c9c221d6ff8e70a87052ed') in 0.004579 seconds
+  Import took 0.033259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.110615 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2881b61549f09795107860103f507628') in 0.004565 seconds
+  Import took 0.107768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.176888 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38142fec896d63a49758be4c64872baa') in 0.004165 seconds
+  Import took 0.010556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006615 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38142fec896d63a49758be4c64872baa') in 0.004193 seconds
+  Import took 0.010362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.140549 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '164800fbf58d46cadfce882549a71da2') in 0.003937 seconds
+  Import took 0.010276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006955 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '164800fbf58d46cadfce882549a71da2') in 0.004280 seconds
+  Import took 0.011440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.873535 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a86879de55b96ef11855b79b5a40ff33') in 0.004164 seconds
+  Import took 0.010895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006469 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a86879de55b96ef11855b79b5a40ff33') in 0.004346 seconds
+  Import took 0.010113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.346952 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '300fdd113fa37d3d045f8676d7eeb1bd') in 0.004009 seconds
+  Import took 0.033729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001769 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '300fdd113fa37d3d045f8676d7eeb1bd') in 0.004242 seconds
+  Import took 0.010669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.321479 seconds.
+  path: Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset
+  artifactKey: Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Resources/GoogleMobileAdsSettings.asset using Guid(94b40565329713d4e8ab2d76987e5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd8eaee1c5ab8c59bda90c598dfcc4af') in 0.004575 seconds
+  Import took 0.029905 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005131 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.09 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.108 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1931 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 2397.
+Total: 4.358500 ms (FindLiveObjects: 0.334600 ms CreateObjectMapping: 0.163700 ms MarkObjects: 3.633000 ms  DeleteObjects: 0.225000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004878 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.041 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.08 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1931 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 2401.
+Total: 4.156900 ms (FindLiveObjects: 0.346800 ms CreateObjectMapping: 0.156900 ms MarkObjects: 3.424500 ms  DeleteObjects: 0.226700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
